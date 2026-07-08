@@ -52,16 +52,18 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=thinhlai06&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=8A8A8A" alt="Thinh's GitHub Stats" />
+  <a href="https://github.com/thinhlai06">
+    <img src="https://github-readme-stats.vercel.app/api?username=thinhlai06&show_icons=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=8A8A8A&bg_color=0d1117" alt="Thinh's GitHub Stats" />
   </a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=thinhlai06&theme=transparent&hide_border=true&title_color=36BCF7&text_color=8A8A8A&ring=36BCF7&fire=36BCF7&currStreakNum=8A8A8A" alt="GitHub Streak" />
+  <a href="https://github.com/thinhlai06">
+    <img src="https://streak-stats.demolab.com?user=thinhlai06&hide_border=true&title_color=36BCF7&text_color=8A8A8A&ring=36BCF7&fire=36BCF7&currStreakNum=8A8A8A&background=0d1117" alt="GitHub Streak" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thinhlai06&theme=github-compact&hide_border=true&color=36BCF7" alt="Activity Graph" />
+  <a href="https://github.com/thinhlai06">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thinhlai06&theme=github-compact&hide_border=true&color=36BCF7&bg_color=0d1117" alt="Activity Graph" />
+  </a>
 </div>
