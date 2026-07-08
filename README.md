@@ -53,8 +53,9 @@
 
 <div align="center">
   <a href="https://github.com/thinhlai06">
-    <img src="https://github-readme-stats.vercel.app/api?username=thinhlai06&show_icons=true&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=8A8A8A&bg_color=0d1117" alt="Thinh's GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thinhlai06&theme=github_dark" alt="Thinh's GitHub Stats" />
   </a>
+  <br><br>
   <a href="https://github.com/thinhlai06">
     <img src="https://streak-stats.demolab.com?user=thinhlai06&hide_border=true&title_color=36BCF7&text_color=8A8A8A&ring=36BCF7&fire=36BCF7&currStreakNum=8A8A8A&background=0d1117" alt="GitHub Streak" />
   </a>
