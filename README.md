@@ -19,6 +19,8 @@
           <li>🎓 <b>Education:</b> Information Technology at Thai Nguyen University of Information and Communication Technology</li>
           <li>🎯 <b>Current Focus:</b> AI/ML Projects, Web Development & building Smart-MathAI</li>
           <li>📚 <b>Learning:</b> Cloud, DevOps, Advanced AI/ML</li>
+          <li>🏆 <b>Award:</b> Third Prize – ICTU Open-Source Software Competition (2026)</li>
+          <li>🎖️ <b>Award:</b> Honorable Mention – ICTU AI Olympiad (2026)</li>
         </ul>
       </td>
       <td valign="top" width="40%">
